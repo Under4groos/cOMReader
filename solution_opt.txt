@@ -1,0 +1,11 @@
+$(SolutionDir)$(Platform)\$(Configuration)\
+
+
+
+
+$(SolutionDir)build\$(Configuration)_$(TargetName)$(TargetExt)
+C:\Users\UnderKo\source\repos\cOMReader\build\Release_com_serialib.dll
+
+
+
+$(SolutionDir)build\$(Configuration)\net7.0-windows\$(MSBuildProjectName)
